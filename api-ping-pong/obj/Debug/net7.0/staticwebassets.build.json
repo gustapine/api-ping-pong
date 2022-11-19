@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6Pp/+3mvpKniC39b9bBL4G54a0Q33Mi/wQHLv1HBGXc=",
+  "Source": "api-ping-pong",
+  "BasePath": "_content/api-ping-pong",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

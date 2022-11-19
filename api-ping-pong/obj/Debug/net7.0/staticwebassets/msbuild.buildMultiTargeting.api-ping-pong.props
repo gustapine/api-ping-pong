@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api-ping-pong.props" />
+</Project>
