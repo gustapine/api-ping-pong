@@ -1,12 +1,12 @@
 namespace ping_pong_api;
 
-public class PingOrPong
+public class PingPong
 {
     public string msg { get; set; }
 
-    public PingOrPong(string ehPingOrPong)
+    public PingPong(string ehPingPong)
     {
-        switch (ehPingOrPong.ToLower().Trim())
+        switch (ehPingPong.ToLower().Trim())
         {
             case "pong": msg = "Ping"; break;
             case "ping": msg = "Pong"; break;
