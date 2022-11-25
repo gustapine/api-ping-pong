@@ -31,8 +31,7 @@ case "ping": msg = "Pong"; break;
 }
 ```
 
-
-Código responsável por apresentar mensagem de erro:
+> Código responsável por apresentar mensagem de erro:
 
 Caso a API não receba nenhum dos parâmetros (ping ou pong) retorna uma mensagem de erro. Segue código responsável por esta mensagem. 
 
