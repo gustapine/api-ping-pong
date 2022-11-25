@@ -6,7 +6,7 @@ Utiliza-se também json para realizar a requisição.
 
 ### GET
 
-PingPong – Pong
+#### PingPong – Pong
 
 Abaixo, parte do código responsável por dar o retorno Pong, ao receber Ping.
 
@@ -17,7 +17,7 @@ Abaixo, parte do código responsável por dar o retorno Pong, ao receber Ping.
 ```
 
 
-PingPong – Ping
+#### PingPong – Ping
 
 Abaixo, parte do código responsável por dar o retorno Ping, ao receber Pong.
 
@@ -32,16 +32,18 @@ Código responsável por apresentar mensagem de erro:
 
 Caso a API não receba nenhum dos parâmetros (ping ou pong) retorna uma mensagem de erro. Segue código responsável por esta mensagem. 
 
+```C#
 {
 default: msg = "-1"; break;
 }
+```
 
-
-
-
-
-PRÉ-Requisitos:
+### PRÉ-Requisitos:
 
 É necessário ter .NET6 instalado em seu computador.
-E para rodar, utilizar o comando $ dotnet run.
+E para rodar, utilizar o comando:
+
+```console
+$ dotnet run.
+```
 
