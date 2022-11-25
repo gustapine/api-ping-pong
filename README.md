@@ -8,6 +8,15 @@
 
 ## Documentação: :checkered_flag:
 
+### PRÉ-Requisitos:
+
+É necessário ter .NET6 instalado em seu computador.
+E para rodar, utilizar o comando:
+
+```console
+$ dotnet run
+```
+
 ### Localhost
 
 Para ver o funcionamento da API, é necessário que você rode o programa e acesse o localhost:
@@ -41,15 +50,6 @@ Abaixo, parte do código responsável por dar o retorno Ping, ao receber Pong.
 
 ```C#
 "msg": "Ping"
-```
-
-### PRÉ-Requisitos:
-
-É necessário ter .NET6 instalado em seu computador.
-E para rodar, utilizar o comando:
-
-```console
-$ dotnet run
 ```
 
 
