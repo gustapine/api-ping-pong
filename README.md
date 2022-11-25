@@ -44,6 +44,6 @@ default: msg = "-1"; break;
 E para rodar, utilizar o comando:
 
 ```console
-$ dotnet run.
+$ dotnet run
 ```
 
