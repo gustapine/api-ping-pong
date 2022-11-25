@@ -8,7 +8,15 @@
 
 ## Documentação: :checkered_flag:
 
-### GET
+### Localhost
+
+Para ver o funcionando da API, é necessário que você corra o programa e acesse o localhost:
+
+```
+https://localhost:{porta}/PingPong/{o-que-você-desejar}
+```
+
+### O pulo do gato
 
 #### PingPong – Pong
 
