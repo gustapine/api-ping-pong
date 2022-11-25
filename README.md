@@ -14,10 +14,12 @@
 
 Abaixo, parte do código responsável por dar o retorno Pong, ao receber Ping.
 
+### Caminho
+
+> PingPong/Ping
+
 ```C#
-{
-            case "pong": msg = "Ping"; break;
-}
+"msg": "Pong"
 ```
 
 
@@ -25,10 +27,12 @@ Abaixo, parte do código responsável por dar o retorno Pong, ao receber Ping.
 
 Abaixo, parte do código responsável por dar o retorno Ping, ao receber Pong.
 
+### Caminho
+
+> PingPong/Pong
+
 ```C#
-{
-case "ping": msg = "Pong"; break;
-}
+"msg": "Ping"
 ```
 
 > Código responsável por apresentar mensagem de erro:
