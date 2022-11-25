@@ -2,7 +2,9 @@
 
 #### Trata-se de uma Api desenvolvida por Gustavo Dias e Marlon de Souza para um trabalho da faculdade. É um programa simples feito em c#, que ao enviar a palavra ping retorna pong e ao enviar pong retorna ping. 
 
-Utiliza-se também json para realizar a requisição. 
+> Utiliza-se também json para realizar a requisição. 
+
+:checkered_flag:
 
 ### GET
 
@@ -47,15 +49,5 @@ E para rodar, utilizar o comando:
 $ dotnet run
 ```
 
-### Listas não ordenadas
-- Cadastro de conta com Google
-    - Captura de avatar a partir do login ou registro com google
 
-### Usando um task list, marcando tarefa como completada ou não  
-
-- [X] Cadastro de conta com Google
-- [ ] Cadastro de conta com Google
-
-### Lista ordenada
-1. Listagem ordenada
 
